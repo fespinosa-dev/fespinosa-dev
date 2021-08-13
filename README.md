@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Santo Domingo, Dominican Republic.
+#### I'm a Full-Stack Developer based in Dominican Republic.
 
 ##### BIO
 

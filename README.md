@@ -7,4 +7,3 @@
 - 🏢 &ensp;I'm currently working at [**Episode Six**](https://episodesix.com/)
 - ⚙️ &ensp;I use daily: `.java`, `.js`, `.html`, `.css`
 - 🌱 &ensp;Learning about **Cloud(AWS, Azure), React, Clojure**
-- 📫 &ensp;Reach me: [LinkedIn](https://www.linkedin.com/in/fjevictoriano/)

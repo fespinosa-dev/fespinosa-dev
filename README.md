@@ -5,5 +5,5 @@
 ##### BIO
 
 - 🏢 &ensp;I'm currently working at [**Episode Six**](https://episodesix.com/)
-- ⚙️ &ensp;I use daily: `.java`, `.js`, `.html`, `.css`
+- ⚙️ &ensp;I use daily: `.Java`, `.js`, `.html`, `.css`
 - 🌱 &ensp;Learning about **Cloud(AWS, Azure), React, Clojure**
